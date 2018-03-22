@@ -1,3 +1,1 @@
-# Hello-word
-Testowe repozytroium do nauki gita
-kolejne podejscie
+nic tu nie ma
