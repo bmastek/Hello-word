@@ -1,3 +1,3 @@
 # Hello-word
 Testowe repozytroium do nauki gita
-kolejne podejscie
+to jest zedytowany plik readme
